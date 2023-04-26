@@ -1,3 +1,3 @@
 | Наименование проекта  | Описание  | Стек    |
 | :---    | :----    | :---     |
-| [Изучение поведения пользователей мобильного приложения](https://github.com/kudarya/Portfolio/blob/main/behavior_of_mobile_app_users/behavior_of_mobile_app_users.ipynb)    | Предварительная обработка данных, построение воронки событий, А/В тест   |  pandas, numpy, matplotlib, scipy, plotly   |
+| [Анализ убытков приложения Procrastinate Pro+](https://github.com/kudarya/Portfolio/blob/main/loss_analysis_of_the_app/loss_analysis_of_the_app.ipynb)  | Анализ LTV, CAC и ROI, исследовательский анализ данных, анализ эффективности привлечения пользователей   |  pandas, numpy, matplotlib  |
